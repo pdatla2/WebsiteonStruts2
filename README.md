@@ -1,1 +1,1 @@
-# Struts2 Framework Implmentation of an Ineteractive Website with dynamic Field value validations and saving into Database
+# Struts2 Framework Implementation of an Interactive Website with dynamic Field value validations and saving the data into Database
